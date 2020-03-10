@@ -1,1 +1,7 @@
 I have done exploratory Data Analysis on IRIS dataset.
+
+I used univariate Analysis to analyze data for one feature 
+
+I used Bivariate Analysis to analyze data for two features together
+
+I have used different plots to understand the data
